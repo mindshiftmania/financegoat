@@ -114,5 +114,6 @@
         <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
         <script src="//unpkg.com/alpinejs" defer></script>
         @livewireScripts
+        @livewireChartsScripts
     </body>
 </html>

@@ -37,8 +37,8 @@
             <dt class="text-sm font-medium text-gray-500 truncate">
                 First account
             </dt>
-            <dd class="mt-1 text-3xl font-semibold text-gray-900">
-                71,897
+            <dd class="mt-1 text-3xl font-semibold text-gray-900 h-96">
+                <livewire:livewire-column-chart :column-chart-model="$columnChartModel" />
             </dd>
             </div>
 
@@ -46,8 +46,8 @@
             <dt class="text-sm font-medium text-gray-500 truncate">
                 Second account
             </dt>
-            <dd class="mt-1 text-3xl font-semibold text-gray-900">
-                58.16%
+            <dd class="mt-1 text-3xl font-semibold text-gray-900 h-96">
+                <livewire:livewire-column-chart :column-chart-model="$columnChartModel" />
             </dd>
             </div>
 
@@ -55,8 +55,8 @@
             <dt class="text-sm font-medium text-gray-500 truncate">
                 Third account
             </dt>
-            <dd class="mt-1 text-3xl font-semibold text-gray-900">
-                24.57%
+            <dd class="mt-1 text-3xl font-semibold text-gray-900 h-96">
+                <livewire:livewire-column-chart :column-chart-model="$columnChartModel" />
             </dd>
             </div>
         </dl>
