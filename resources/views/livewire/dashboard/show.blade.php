@@ -1,5 +1,5 @@
 <div>
-    <h1 class="order-1 text-gray-900 text-lg font-extrabold tracking-tight mt-2 mb-5">Accounts</h1>
+    <h3 class="text-lg font-medium leading-6 text-gray-900 mt-2">Accounts</h3>
     <div>
         <dl class="mt-5 grid grid-cols-1 gap-5 sm:grid-cols-3">
             <div class="px-4 py-5 bg-white shadow rounded-lg overflow-hidden sm:p-6">
@@ -30,7 +30,7 @@
             </div>
         </dl>
     </div>
-    <h1 class="order-1 text-gray-900 text-lg font-extrabold tracking-tight mt-5 mb-5">Stats</h1>
+    <h3 class="text-lg font-medium leading-6 text-gray-900 mt-12">Stats</h3>
     <div>
         <dl class="mt-5 grid grid-cols-1 gap-5 sm:grid-cols-3">
             <div class="px-4 py-5 bg-white shadow rounded-lg overflow-hidden sm:p-6">
@@ -61,9 +61,9 @@
             </div>
         </dl>
     </div>
-    <h1 class="order-1 text-gray-900 text-lg font-extrabold tracking-tight mt-5 mb-5">Transaction details</h1>
+    <h3 class="text-lg font-medium leading-6 text-gray-900 mt-12">Transaction Details</h3>
     <div class="flex flex-col">
-        <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
+        <div class="mt-5 overflow-x-auto sm:-mx-6 lg:-mx-8">
             <div class="py-2 align-middle inline-block min-w-full sm:px-6 lg:px-8">
             <div class="shadow overflow-hidden border-b border-gray-200 sm:rounded-lg">
                 <table class="min-w-full divide-y divide-gray-200">
